@@ -36,10 +36,14 @@ Definition List: Organizes items in a format similar to a dictionary, with terms
 HTML tables allow you to arrange data like text, images, and links in rows and columns. You use the <table> tag to start and end a table.
     
 ## Key Elements of HTML Table
-<table>: Defines the table itself.
-<tr>: Used for table rows.
-<th>: Used for table headings.
-<td>: Used for table cells (data).
+<table> 
+    Defines the table itself.
+<tr> 
+    Used for table rows.
+<th> 
+    Used for table headings.
+<td> 
+    Used for table cells (data).
 
 ## rowspan and colspan Attributes
 Rowspan: If you want a table cell to span multiple rows, you can use the rowspan attribute.
