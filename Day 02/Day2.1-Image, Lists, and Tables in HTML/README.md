@@ -50,11 +50,7 @@ HTML tables allow you to arrange data like text, images, and links in rows and c
 ## rowspan and colspan Attributes
 Rowspan: If you want a table cell to span multiple rows, you can use the rowspan attribute.
 
-    ```bash
-    <td rowspan="value">
     
 Colspan: If you want a table cell to span multiple columns, you can use the colspan attribute.
 
-    ```bash
-    <td colspan="value">
     
