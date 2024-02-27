@@ -34,12 +34,6 @@ Definition List: Organizes items in a format similar to a dictionary, with terms
 
 # HTML Tables
 HTML tables allow you to arrange data like text, images, and links in rows and columns. You use the <table> tag to start and end a table.
-
-## Syntax of HTML Table
-
-    <table>
-      // table content
-    </table>
     
 ## Key Elements of HTML Table
 <table>: Defines the table itself.
